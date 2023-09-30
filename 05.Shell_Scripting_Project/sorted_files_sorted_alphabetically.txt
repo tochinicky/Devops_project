@@ -1,0 +1,9 @@
+README.md
+backup.sh
+calculations.sh
+file1.txt
+file2.txt
+file3.txt
+navigating-linux-filesystem.sh
+sorting.sh
+user-input.sh
