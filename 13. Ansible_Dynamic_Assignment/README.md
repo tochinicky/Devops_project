@@ -9,7 +9,7 @@ Take note that in most cases it is recommended to use `static assignments` for p
 
 ## Introducing dynamic assignment into our structure
 
-Inyour `https://github.com/<your-name>/ansible-config-mgt` GitHub repository start a new branch and call it dynamic-assignments.
+In your `https://github.com/<your-name>/ansible-config-mgt` GitHub repository start a new branch and call it dynamic-assignments.
 
 Create a new folder, name it dynamic-assignments . Then inside this folder, create a new file and name it `env-vars.yaml`. We will instruct `site.yaml` to include this playbook later. For now, let us keep building up the structure.
 
